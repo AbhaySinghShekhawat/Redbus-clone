@@ -166,7 +166,7 @@ h1 {
   background-color: white;
   position: absolute;
   top: 180px;
-  left: 250px;
+  left: 170px;
   border-radius: 40px;
   display: flex;
 }
@@ -273,7 +273,7 @@ h1 {
   position: absolute;
   background-color: white;
   top: 450px;
-  left: 158px;
+  left: 90px;
   border-radius: 40px;
 }
 .bus-tiket-head {
@@ -1253,7 +1253,7 @@ ul > li {
   backdrop-filter: blur(25px);
   position: absolute;
   top: 260px;
-  left: 320px;
+  left: 240px;
 }
 .clickerbar {
   width: 650px;
