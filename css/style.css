@@ -153,6 +153,9 @@ left: 1441px;
   height: 520px;
   background-color: #d84e55;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 h1 {
   position: absolute;
@@ -165,8 +168,6 @@ h1 {
   height: 100px;
   background-color: white;
   position: absolute;
-  top: 180px;
-  left: 270px;
   border-radius: 40px;
   display: flex;
 }
@@ -274,7 +275,6 @@ h1 {
   position: absolute;
   background-color: white;
   top: 450px;
-  left: 165px;
   border-radius: 40px;
 }
 .bus-tiket-head {
